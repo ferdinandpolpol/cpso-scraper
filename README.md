@@ -1,2 +1,2 @@
 # cpso-scraper
-scrapes doctor data
+This project was done to scrape doctor information using Python and Selenium
